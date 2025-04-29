@@ -4,7 +4,8 @@ A rhythm-based arrow game inspired by **Friday Night Funkin'**, made entirely in
 
 ## 📺 Preview
 
-> (Insert a screenshot or gameplay GIF here!)
+![GameLogo](https://github.com/user-attachments/assets/b7865dcc-e8fd-433b-a218-cb5929f5ba96)
+
 
 ---
 
